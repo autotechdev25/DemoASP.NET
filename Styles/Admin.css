@@ -1,0 +1,437 @@
+﻿@charset "utf-8";
+@import url('reset.css');
+
+
+body 
+{
+   font-family:Arial,Helvetica,sans-serif;
+   font-size:12px; 
+   margin-left: auto;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   background-color:#ffffff;
+   width:1000px;
+   height:auto;
+   position:relative;
+   margin-right :auto;  
+}
+a
+{
+	text-decoration:none;
+	color:Black;
+}
+a:hover
+{
+    color:#058578;
+}
+p
+{
+    margin-left:5px;
+    margin-top:5px;
+    margin-right:5px;
+    margin-bottom:5px;
+    text-align:justify;
+}
+.Label
+{
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px; 
+vertical-align:middle;  
+}
+.button
+{
+    font-family:Arial,Helvetica,sans-serif;
+    font-size:12px;
+    Width:100px;
+    height:25px;
+    font-weight:bold;
+    text-transform:capitalize;
+    text-align:center;
+    vertical-align:middle;
+    background-color:#058578;
+    border:0;
+    color:#FFFFFF;
+    cursor:pointer;
+}
+#maindiv
+{
+position:relative;
+margin-left:0px; 
+margin-right:0px;
+width:1000px; 
+max-height:100%;
+height:auto;   
+background-color:#FFFFFF; 
+}
+#header
+{
+margin-top:0px;
+margin-bottom:0px;
+margin-left:auto;
+margin-right:auto;   
+width:1000px;
+height:80px; 
+}
+#AdminLogo
+{
+float:left;
+margin-top:14px;  
+margin-left:10px;
+}
+#plastemart
+{
+float:right;
+/*margin-top:20px; */
+margin-top:13px; 
+margin-right:10px;     
+}
+#AdminbadniLogo
+{
+   float:left;
+   margin-left:185px;
+   margin-top:30px;
+}
+#menumain {
+	position: absolute;	
+	left: 5px;
+	top: 80px;
+	z-index: 13;
+}
+
+.menu{
+	
+	width:990px;
+	height:37px;
+	background-image: url(../Images/menu-bg.jpg);
+		
+	}
+	
+.nav, .nav ul{
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#000000;
+text-decoration:none;
+padding:0;
+list-style-type:none;
+list-style-position:outside;
+position:relative;
+line-height:35px;
+
+}
+
+.nav a{
+display:block;
+padding:0px 10px 0px 10px;
+color:#000000;
+text-decoration:none;
+
+
+}
+
+.nav a:hover{
+/*background-color:#199e8e;*/
+color:#058578;
+}
+
+.nav li{
+float:left;
+position:relative;
+background:url(images/homepage/divider.gif) right no-repeat;
+padding:0px 2px 0px 2px; 
+}
+.nav li ul li{
+	background-image:none;
+	}
+
+.nav ul {
+position:absolute;
+display:none;
+width:200px;
+background-color:#bbbbbb;
+}
+
+
+
+.nav li ul a{
+width:200px;
+height:30px;
+float:left;
+margin-left:-10px;
+
+
+}
+
+.nav ul ul{
+top:auto;
+}	
+
+.nav li ul ul {
+left:190px;
+margin:0px 0 0 10px;
+
+}
+
+.nav li:hover ul ul, .nav li:hover ul ul ul, .nav li:hover ul ul ul ul{
+display:none;
+background-image:none;
+
+}
+.nav li:hover ul, .nav li li:hover ul, .nav li li li:hover ul, .nav li li li li:hover ul{
+display:block;
+
+}	
+.LogIn
+{
+ float: right; 
+ margin-right: 10px; 
+margin-top:-25px;
+}
+.LogIn a
+{
+display:block;
+color:#000;
+height:23px;
+text-align:left;
+vertical-align:middle;
+text-decoration:none;
+}
+.LogIn a:hover{color:#058578;}
+#Search
+{
+float:right;
+margin-right:70px;
+margin-top:-34px;
+}
+.pnlSearch
+{
+top: 200px; 
+z-index:1;
+}
+#SearchPanelDiv
+{
+margin-top: 40px;
+margin-left: 5px;
+width:100%;
+height:60%;
+position: Fixed;
+text-align:justify;
+z-index: 9999999; 
+opacity: 0.95;
+}
+#tblSrchPnl
+{
+border-width: 0px; 
+position: relative; 
+background-color: #FFFFFF;
+height:100%;
+width:985px;
+}
+#DivHead
+{
+background-color: #DFC184;   
+}
+.HeadBg
+{
+background-color: #DFC184;   
+}
+#middleform {
+	position: inherit;
+	width: 985px;
+	height: auto;
+    min-height:400px;
+	z-index: 1;
+	left: 0px;
+	top: 30px;
+	font-family:Arial,Helvetica,sans-serif;
+    font-size:12px;
+    /*	background-color: #eff0f0;*/
+} 
+#InnerContent{margin-left:7px;}
+.errmsg
+{
+color:Red;
+}
+#pageHead
+{
+width:985px;
+height:22px;
+background-color: #8F0F60; 
+margin-top:2px;
+margin-bottom:2px;   
+}
+.whitetext
+	{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:16px;
+	font-weight:bold;
+	color:#ffffff;
+	}
+#Innerfooter
+{
+    width: 1000px;
+	position: relative;
+	/*top: 50px;*/
+	top: 150px;
+	background-color:#FFF;
+}
+ #footerbg {
+	width:1000px;
+	/*height: 114px;*/
+	height: 35px;
+	background-image: url(../Images/graybg.jpg);
+}
+a.footerlink:link
+{
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#000000;
+text-decoration:none;
+margin-left:10px;
+}
+a.footerlink:active
+{
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#000000;
+text-decoration:none;
+}
+a.footerlink:visited
+{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+	}
+a.footerlink:hover
+{ 
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#058578;
+text-decoration:none;
+}
+
+#footerpi {
+	position: absolute;
+	width: 220px;
+	height: 26px;
+	z-index: 7;
+	left: 780px;
+	/*top: 90px;*/
+	top: 12px;
+}
+.footergray
+	{
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:13px;
+	font-weight:normal;
+	color:#333333;
+
+	}
+	/*textbox*/
+.TextBox1, .Textbox2
+{
+	border: 1px solid;
+	height:10px;
+	width: 200px;
+	padding:6px;
+	outline:0px;
+	margin-bottom:5px;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+}
+
+.TextBox2 {	width: 50px;}
+.TextBox3 {	width: 80px;}
+.TextBox4 {	width: 150px;}
+.ModalPopupBG
+{
+ background-color: #666699;
+ filter: alpha(opacity=50);                   
+ opacity: 0.7;
+ width: 100%;
+ min-height: 100%;
+ overflow: hidden;
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+.popUpStyle
+{
+  border-width: 0px; 
+  position: fixed; 
+  padding: 30px; 
+  background-color: #FFFFFF;
+  font-size: 12px; 
+  left: 20%; 
+  top: 35%;
+  width:600px;
+  height:auto;
+  border-style:groove;
+  border-color:Black;
+  border-width:thin;
+  z-index: 9999999;
+  overflow:scroll;
+}
+.popUpStyle1
+{
+  border-width: 0px; 
+  position: fixed; 
+  padding: 30px; 
+  background-color: #FFFFFF;
+  font-size: 12px; 
+  left: 35%; 
+  top: 35%;
+  width:200px;
+  height:auto;
+  border-style:groove;
+  border-color:Black;
+  border-width:thin;
+  z-index: 9999999;
+  overflow:scroll;
+}
+.popUpStyle3
+{
+  border-width: 0px; 
+  position: fixed;
+  padding: 30px; 
+  background-color: #FFFFFF;
+  font-size: 12px; 
+  left: 14%;
+  top: 5%;
+  width:900px;
+  height:500px;
+  border-style:groove;
+  border-color:Black;
+  border-width:thin;
+  overflow:scroll;
+}
+.popUpStyle4
+{
+  border-width: 0px; 
+  position: fixed; 
+  padding: 30px; 
+  background-color: #FFFFFF;
+  font-size: 12px; 
+  left: 35%; 
+  top: 35%;
+  width:250px;
+  height:auto;
+  border-style:groove;
+  border-color:Black;
+  border-width:thin;
+  z-index: 9999999;
+  overflow:scroll;
+}
+.RedBtn
+{
+    background-color:Red;
+}
+.GreenBtn
+{
+    background-color:Green;
+}

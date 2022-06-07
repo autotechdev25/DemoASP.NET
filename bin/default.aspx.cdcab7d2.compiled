@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Default.aspx" hash="fffffff3850fc8db" filehash="9701d931c9f6a8f" flags="100000" assembly="App_Web_default.aspx.cdcab7d2" type="ASP.default_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Default.aspx" />
+        <filedep name="/Dhwani/Default.aspx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-footer.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-footer.ascx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-header.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-header.ascx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-home-fast-movers.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-home-fast-movers.ascx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-menu.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-menu.ascx.cs" />
+    </filedeps>
+</preserve>

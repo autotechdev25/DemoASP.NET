@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/AddMembers.aspx" hash="fffffff3850fc8db" filehash="7add70325b954adb" flags="100000" assembly="App_Web_addmembers.aspx.fdf7a39c" type="ASP.admin_addmembers_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/AddMembers.aspx" />
+        <filedep name="/Dhwani/Admin/AddMembers.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

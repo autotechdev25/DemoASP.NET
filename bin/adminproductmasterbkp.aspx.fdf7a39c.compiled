@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/AdminProductMasterBkp.aspx" hash="fffffff3850fc8db" filehash="cf0647941617f2ed" flags="100000" assembly="App_Web_adminproductmasterbkp.aspx.fdf7a39c" type="ASP.admin_adminproductmasterbkp_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/AdminProductMasterBkp.aspx" />
+        <filedep name="/Dhwani/Admin/AdminProductMasterBkp.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/UI/UserControl/wuc-footer.ascx" hash="fffffff3850fc8db" filehash="be2dfe0dc4a9759" flags="100000" assembly="App_Web_wuc-footer.ascx.74360ffe" type="ASP.ui_usercontrol_wuc_footer_ascx">
+    <filedeps>
+        <filedep name="/Dhwani/UI/UserControl/wuc-footer.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-footer.ascx.cs" />
+    </filedeps>
+</preserve>

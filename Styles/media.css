@@ -1,0 +1,573 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width : 290px) and (max-width : 480px) {
+	#cssmenu {
+  margin-left: 0px;
+  margin-right: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.wrapper { width:98% !important; }
+.banner_heading { font-size:20px; color:#ed1d23; text-align:right; padding:40px; text-transform:uppercase; text-shadow:#000 2px 2px;  font-weight:bold; }
+h2 {
+  width: 90%;
+  font-size: 18px;
+}
+.inner_welcome_text h1 { margin-bottom:15px; }
+.welcome_text {
+  width: 85%;
+  text-align:center;
+}
+.col {
+  width: 70%;
+  padding: 10px;
+  margin:0 auto;
+  margin-left:10%;
+}
+.service_list {
+  width: 90%;
+  margin-bottom:10px;
+  margin-left:-10px;
+}
+.our_loc img {
+	width:100%;
+}
+.footer_col {
+	text-align:center;
+  width: 100%;
+}
+.footer_col h3 {
+  width: 100%;
+}
+.list_style {
+	margin-bottom:15px;
+}
+.righs {
+  width: 100%;
+}
+#cssmenu ul li .first_child {
+  text-align: left;
+  background:none;
+  border-radius:0px;
+}
+#cssmenu > ul > li > a {
+  font-size: 16px;
+  font-weight:normal;
+}
+#cssmenu ul li .last_child:hover {
+  text-align: left;
+}
+#cssmenu ul ul li a {
+  width:auto;
+  font-size: 16px;
+  font-weight:normal;
+  background: #005b8d;
+}
+#cssmenu ul ul li a:hover {
+  width:auto;
+  font-size: 16px;
+  font-weight:normal;
+  background: #005b8d;
+}
+.tab_slider_div { width:90%; }
+.contact2{
+	width:100%;
+	margin-left:auto;
+	text-align:center;
+	float:none;
+}
+.contact2 div { text-align:center !important; }
+.main_header p {
+  font-size: 15px;
+}
+.mto_div > h3.main_h  {
+  font-size: 16px !important;
+}
+.contact_header { font-size:16px !important;}
+#contact-content-mid {
+  width: 100%;
+}
+.contact {
+  width:98%;
+  margin:5px;
+}
+input[type=text], input[type=number] {
+  width: 94% !important;
+}
+.textarea { width:94% !important; }
+.contact_right {
+	width: 84%;
+}
+.left_content { width:auto; margin:10px !important; }
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 480px) and (max-width : 600px) {
+		#cssmenu {
+  margin-left: 0px;
+  margin-right: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.wrapper { width:98% !important; }
+.banner_heading { font-size:20px; color:#ed1d23; text-align:right; padding:40px; text-transform:uppercase; text-shadow:#000 2px 2px;  font-weight:bold; }
+h2 {
+  width: 90%;
+  font-size: 18px;
+}
+.inner_welcome_text h1 { margin-bottom:15px; }
+.welcome_text {
+  width: 85%;
+  text-align:center;
+}
+.col {
+  width: 70%;
+  padding: 10px;
+  margin:0 auto;
+  margin-left:10%;
+}
+.service_list {
+  width: 90%;
+  margin-bottom:10px;
+  margin-left:-10px;
+}
+.our_loc img {
+	width:100%;
+}
+.footer_col {
+	text-align:center;
+  width: 100%;
+}
+.footer_col h3 {
+  width: 100%;
+}
+.list_style {
+	margin-bottom:15px;
+}
+.righs {
+  width: 100%;
+}
+#cssmenu ul li .first_child {
+  text-align: left;
+  background:none;
+  border-radius:0px;
+}
+#cssmenu > ul > li > a {
+  font-size: 16px;
+  font-weight:normal;
+}
+#cssmenu ul li .last_child:hover {
+  text-align: left;
+}
+#cssmenu ul ul li a {
+  width:auto;
+  font-size: 16px;
+  font-weight:normal;
+  background: #005b8d;
+}
+#cssmenu ul ul li a:hover {
+  width:auto;
+  font-size: 16px;
+  font-weight:normal;
+  background: #005b8d;
+}
+.tab_slider_div { width:90%; }
+ul.tabs li a {   padding: 7px 1%; } 
+.contact2{
+	width:100%;
+	margin-left:auto;
+	text-align:center;
+	float:none;
+}
+.contact2 div { text-align:center !important; }
+.contact2 span { margin-left:12px; }
+#contact-content-mid {
+  width: 100%;
+}
+.contact {
+  width:98%;
+  margin:5px;
+}
+input[type=text], input[type=number] {
+  width: 95% !important;
+}
+.textarea { width:95% !important; }
+.contact_right {
+	width: 90%;
+}
+.left_content { width:auto; margin:10px !important; }
+}
+
+@media only screen and (min-width : 600px) and (max-width : 730px) {
+		#cssmenu {
+  margin-left: 0px;
+  margin-right: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.wrapper { width:98% !important; }
+.banner_heading { font-size:20px; color:#ed1d23; text-align:right; padding:40px; text-transform:uppercase; text-shadow:#000 2px 2px;  font-weight:bold; }
+h2 {
+  width: 90%;
+  font-size: 18px;
+}
+.inner_welcome_text h1 { margin-bottom:15px; }
+.welcome_text {
+  width: 85%;
+  text-align:center;
+}
+.col {
+  width: 29%;
+  padding: 10px;
+  margin:0 auto;
+}
+.col:hover{
+  box-shadow:none;
+  transition: ease-in-out .3s;
+  background:none;
+}
+.service_list {
+  width: 90%;
+  margin-bottom:10px;
+}
+.our_loc img {
+	width:auto;
+}
+.footer_col {
+	text-align:center;
+  width: 30%;
+  height:200px;
+}
+.footer_col h3 {
+  width: 100%;
+}
+.list_style {
+	margin-bottom:15px;
+}
+.righs {
+  width: 100%;
+}
+#cssmenu ul li .first_child {
+  text-align: left;
+  background:none;
+  border-radius:0px;
+}
+#cssmenu > ul > li > a {
+  font-size: 16px;
+  font-weight:normal;
+}
+#cssmenu ul li .last_child:hover {
+  text-align: left;
+}
+#cssmenu ul ul li a {
+  width:auto;
+  font-size: 16px;
+  font-weight:normal;
+  background: #005b8d;
+}
+#cssmenu ul ul li a:hover {
+  width:auto;
+  font-size: 16px;
+  font-weight:normal;
+  background: #005b8d;
+}
+.tab_slider_div { width:90%; }
+.contact2{
+	width:100%;
+	margin-left:auto;
+	text-align:center;
+	float:none;
+}
+.contact2 div { text-align:center !important; }
+.contact2 span { margin-left:12px; }
+#contact-content-mid {
+  width: 100%;
+}
+.contact {
+  width:95%;
+  margin:5px;
+}
+.contact_right {
+  width: 44%;
+  float: left;
+  margin-right:10px;
+  padding: 10px;
+}
+.left_content { width:93%; margin:10px !important; }
+}
+ @media only screen and (min-width :730px) and (max-width : 799px) {
+	 #cssmenu {
+  margin-left: 15px;
+  margin-right: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.wrapper { width:98% !important; }
+#cssmenu > ul > li > a {
+  padding: 9px 1.05em;
+  font-size: 18px;}
+  #cssmenu ul li .last_child:hover {
+  padding-right:20px;
+}
+#cssmenu { width:809px !important; margin:0 auto !important; }
+h2 {
+  width: 25%;
+ }
+ .col {
+  width: 27%;
+}
+.service_list {
+  width: 41%;
+  height:285px;
+}
+.footer_col {
+	text-align:center;
+  width: 30%;
+  height:200px;
+}
+.footer_col h3 {
+  width: 100%;
+}
+#cssmenu { width:97% !important; }
+.tab_slider_div { width:90%; } 
+.left_content { width:93%; margin:10px !important; }
+ }
+ 
+ @media only screen and (min-width :800px) and (max-width :802px) {
+ #cssmenu {
+  margin-left: 15px;
+  margin-right: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.wrapper { width:98% !important; }
+#cssmenu > ul > li > a {
+  padding: 9px 0.3em;
+  font-size: 18px;}
+  #cssmenu ul li .last_child:hover {
+  padding-right:8px;
+}
+#cssmenu { width:809px !important; margin:0 auto !important; }
+h2 {
+  width: 25%;
+ }
+ .col {
+  width: 27%;
+}
+.service_list {
+  width: 41%;
+  height:285px;
+}
+.footer_col {
+	text-align:center;
+  width: 30%;
+  height:200px;
+}
+.footer_col h3 {
+  width: 100%;
+}
+#cssmenu { width:97% !important; }
+.tab_slider_div { width:90%; } 
+.left_content { width:93%; margin:10px !important; }
+}
+  @media only screen and (min-width :802px) and (max-width : 1024px) {
+	 #cssmenu {
+  margin-left: 15px;
+  margin-right: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.wrapper { width:98% !important; }
+#cssmenu > ul > li > a {
+  padding: 9px 1.05em;
+  font-size: 18px;}
+  #cssmenu ul li .last_child:hover {
+  padding-right:20px;
+}
+#cssmenu { width:809px !important; margin:0 auto !important; }
+h2 {
+  width: 25%;
+ }
+ .col {
+  width: 27%;
+}
+.service_list {
+  width: 41%;
+  height:285px;
+}
+.footer_col {
+	text-align:center;
+  width: 30%;
+  height:200px;
+}
+.footer_col h3 {
+  width: 100%;
+}
+#cssmenu { width:97% !important; }
+.tab_slider_div { width:90%; } 
+.left_content { width:93%; margin:10px !important; }
+ }
+ 
+ 
+ @media all and (max-width: 790px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+  #cssmenu {
+    width: 99%;
+	height:100%;
+  }
+  #cssmenu ul {
+    width: 100%;
+    display: none;
+  }
+  #cssmenu.align-center > ul {
+    text-align: left;
+  }
+  #cssmenu ul li {
+    width: 100%;
+    border-top: 1px solid rgba(120, 120, 120, 0.2);
+  }
+  #cssmenu ul ul li,
+  #cssmenu li:hover > ul > li {
+    height: auto;
+  }
+  #cssmenu ul li a,
+  #cssmenu ul ul li a {
+    width: 100%;
+    border-bottom: 0;
+  }
+  #cssmenu > ul > li {
+    float: none;
+  }
+  #cssmenu ul ul li a {
+    padding-left: 25px;
+  }
+  #cssmenu ul ul ul li a {
+    padding-left: 35px;
+  }
+  #cssmenu ul ul li a {
+    color: #dddddd;
+    background: none;
+  }
+  #cssmenu ul ul li:hover > a,
+  #cssmenu ul ul li.active > a {
+    color: #ffffff;
+  }
+  #cssmenu ul ul,
+  #cssmenu ul ul ul,
+  #cssmenu.align-right ul ul {
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  #cssmenu > ul > li.has-sub > a:after,
+  #cssmenu > ul > li.has-sub > a:before,
+  #cssmenu ul ul > li.has-sub > a:after,
+  #cssmenu ul ul > li.has-sub > a:before {
+    display: none;
+  }
+  #cssmenu #menu-button {
+    display: block;
+    padding: 17px;
+    color: #dddddd;
+    cursor: pointer;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  #cssmenu #menu-button:after {
+    position: absolute;
+    top: 22px;
+    right: 17px;
+    display: block;
+    height: 4px;
+    width: 20px;
+    border-top: 2px solid #dddddd;
+    border-bottom: 2px solid #dddddd;
+    content: '';
+  }
+  #cssmenu #menu-button:before {
+    position: absolute;
+    top: 16px;
+    right: 17px;
+    display: block;
+    height: 2px;
+    width: 20px;
+    background: #dddddd;
+    content: '';
+  }
+  #cssmenu #menu-button.menu-opened:after {
+    top: 23px;
+    border: 0;
+    height: 2px;
+    width: 15px;
+    background: #ffffff;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  #cssmenu #menu-button.menu-opened:before {
+    top: 23px;
+    background: #ffffff;
+    width: 15px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+  }
+  #cssmenu .submenu-button {
+    position: absolute;
+    z-index: 99;
+    right: 0;
+    top: 0;
+    display: block;
+    border-left: 1px solid rgba(120, 120, 120, 0.2);
+    height: 37px;
+    width: 46px;
+    cursor: pointer;
+  }
+  #cssmenu .submenu-button.submenu-opened {
+    background:none;
+  }
+  #cssmenu ul ul .submenu-button {
+    height: 34px;
+    width: 34px;
+  }
+  #cssmenu .submenu-button:after {
+    position: absolute;
+    top: 22px;
+    right: 19px;
+    width: 8px;
+    height: 2px;
+    display: block;
+    background: #dddddd;
+    content: '';
+  }
+  #cssmenu ul ul .submenu-button:after {
+    top: 15px;
+    right: 13px;
+  }
+  #cssmenu .submenu-button.submenu-opened:after {
+    background: #ffffff;
+  }
+  #cssmenu .submenu-button:before {
+    position: absolute;
+    top: 19px;
+    right: 22px;
+    display: block;
+    width: 2px;
+    height: 8px;
+    background: #dddddd;
+    content: '';
+  }
+  #cssmenu ul ul .submenu-button:before {
+    top: 12px;
+    right: 16px;
+  }
+  #cssmenu .submenu-button.submenu-opened:before {
+    display: none;
+  }
+  
+  .tab_slider_div { width:90%; }
+}

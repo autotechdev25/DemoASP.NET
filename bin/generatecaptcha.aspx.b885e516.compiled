@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/UI/Pages/GenerateCaptcha.aspx" hash="fffffff3850fc8db" filehash="8303ee3f77979a85" flags="100000" assembly="App_Web_generatecaptcha.aspx.b885e516" type="ASP.ui_pages_generatecaptcha_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/UI/Pages/GenerateCaptcha.aspx" />
+        <filedep name="/Dhwani/UI/Pages/GenerateCaptcha.aspx.cs" />
+    </filedeps>
+</preserve>

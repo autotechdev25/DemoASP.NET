@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/AddFAQ.aspx" hash="fffffff3850fc8db" filehash="4456e211fdc954b2" flags="100000" assembly="App_Web_addfaq.aspx.fdf7a39c" type="ASP.admin_addfaq_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/AddFAQ.aspx" />
+        <filedep name="/Dhwani/Admin/AddFAQ.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

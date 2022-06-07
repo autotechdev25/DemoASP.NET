@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/UI/Pages/Dhwani-Product-Categorybkp.aspx" hash="fffffff3850fc8db" filehash="97c4187a72d70502" flags="100000" assembly="App_Web_dhwani-product-categorybkp.aspx.b885e516" type="ASP.ui_pages_dhwani_product_categorybkp_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/MasterPage/MasterPage.master" />
+        <filedep name="/Dhwani/MasterPage/MasterPage.master.cs" />
+        <filedep name="/Dhwani/UI/Pages/Dhwani-Product-Category.aspx.cs" />
+        <filedep name="/Dhwani/UI/Pages/Dhwani-Product-Categorybkp.aspx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-footer.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-footer.ascx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-header.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-header.ascx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-headerBanner.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-headerBanner.ascx.cs" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-menu.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-menu.ascx.cs" />
+    </filedeps>
+</preserve>

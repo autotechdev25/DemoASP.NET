@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/AdminUserRights.aspx" hash="fffffff3850fc8db" filehash="91342e0e08bdd524" flags="100000" assembly="App_Web_adminuserrights.aspx.fdf7a39c" type="ASP.admin_adminuserrights_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/AdminUserRights.aspx" />
+        <filedep name="/Dhwani/Admin/AdminUserRights.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

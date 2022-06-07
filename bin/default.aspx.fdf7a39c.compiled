@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/Default.aspx" hash="fffffff3850fc8db" filehash="9013160e9244694d" flags="100000" assembly="App_Web_default.aspx.fdf7a39c" type="ASP.admin_default_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/Default.aspx" />
+        <filedep name="/Dhwani/Admin/Default.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

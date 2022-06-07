@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/AddBanner.aspx" hash="fffffff3850fc8db" filehash="f429500eb7c09603" flags="100000" assembly="App_Web_addbanner.aspx.fdf7a39c" type="ASP.admin_addbanner_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/AddBanner.aspx" />
+        <filedep name="/Dhwani/Admin/AddBanner.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

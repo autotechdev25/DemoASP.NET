@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Dhwani/UploadFile.ashx" hash="ffffffffa151966f" filehash="fffff4c5942f885b" flags="110000" assembly="App_Web_uploadfile.ashx.cdcab7d2" type="UploadFile">
+    <filedeps>
+        <filedep name="/Dhwani/UploadFile.ashx" />
+    </filedeps>
+</preserve>

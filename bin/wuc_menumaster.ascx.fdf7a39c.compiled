@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/wuc_MenuMaster.ascx" hash="fffffff3850fc8db" filehash="2d54767576adc4a2" flags="100000" assembly="App_Web_wuc_menumaster.ascx.fdf7a39c" type="ASP.admin_wuc_menumaster_ascx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

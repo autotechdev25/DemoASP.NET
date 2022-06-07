@@ -1,0 +1,86 @@
+#tabs {
+	width:auto;
+	margin-bottom: 40px;
+	margin-top:20px;
+}
+#tabs ul { list-style:none;   width: 47%; margin:0 auto; }
+#tabs li {
+	float: left;
+	margin-right: 20px;
+}
+
+#tabs li a {
+	display: block;
+	padding: 10px 30px;
+	/*border:1px solid #ed1d23;*/
+	background: #666;
+	text-decoration: none;
+	color: #fff;
+	font-size:16px;
+}
+
+#tabs li a:hover {
+	background: #00477a;
+}
+
+#tabs_container {
+	width: 90%;
+	padding: 40px;
+	overflow: hidden;
+	position: relative;
+	background: #00477a;
+	color:#fff;
+}
+
+#tabs_container div {
+	margin-right: 40px;
+	font-size: 18px;
+}
+
+.make_transist {
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	-ms-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+
+.hidescale {
+	-webkit-transform: scale(0.9);
+	-moz-transform: scale(0.9);
+	-o-transform: scale(0.9);
+	-ms-transform: scale(0.9);
+	transform: scale(0.9);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	filter: alpha(opacity=0);
+	opacity: 0;
+}
+
+.showscale {
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	opacity: 1;
+
+	-webkit-transition-delay: .3s;
+	-moz-transition-delay: .3s;
+	-o-transition-delay: .3s;
+	-ms-transition-delay: .3s;
+	transition-delay: .3s;
+}
+
+.tabulous_active {
+	background: #00477a !important;
+	color: #fff !important;
+	font-size:18px;
+}
+
+.tabulousclear {
+	display: block;
+	clear: both;
+}

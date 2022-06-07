@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/AddEvent.aspx" hash="fffffff3850fc8db" filehash="8e64b347445b06d2" flags="100000" assembly="App_Web_addevent.aspx.fdf7a39c" type="ASP.admin_addevent_aspx">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/AddEvent.aspx" />
+        <filedep name="/Dhwani/Admin/AddEvent.aspx.cs" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master" />
+        <filedep name="/Dhwani/Admin/InnerAdminMaster.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>

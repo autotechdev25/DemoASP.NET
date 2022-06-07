@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/UI/UserControl/wuc-banner.ascx" hash="fffffff3850fc8db" filehash="654fcf90e185becd" flags="100000" assembly="App_Web_wuc-banner.ascx.74360ffe" type="ASP.ui_usercontrol_wuc_banner_ascx">
+    <filedeps>
+        <filedep name="/Dhwani/UI/UserControl/wuc-banner.ascx" />
+        <filedep name="/Dhwani/UI/UserControl/wuc-banner.ascx.cs" />
+    </filedeps>
+</preserve>

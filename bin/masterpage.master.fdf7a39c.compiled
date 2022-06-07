@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Dhwani/Admin/MasterPage.master" hash="fffffff3850fc8db" filehash="3105b6f9172a26e1" flags="100000" assembly="App_Web_masterpage.master.fdf7a39c" type="ASP.admin_masterpage_master">
+    <filedeps>
+        <filedep name="/Dhwani/Admin/MasterPage.master" />
+        <filedep name="/Dhwani/Admin/MasterPage.master.cs" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx" />
+        <filedep name="/Dhwani/Admin/wuc_MenuMaster.ascx.cs" />
+    </filedeps>
+</preserve>
